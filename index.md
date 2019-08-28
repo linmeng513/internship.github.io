@@ -8,7 +8,7 @@
       <p><b>地址：河北省石家庄市，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.JPG" width="100%">      % 插入证件照代码
+            
     </td>
   </tr>
 </table>
